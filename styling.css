@@ -40,12 +40,12 @@ body {
 
 .carousel-item img {
     width: 100%;
-    height: 700px;
+    height: 400px;
     object-fit: cover;
 }
 
 .content {
-    margin: 40px;
+    margin: 25px;
 }
 
 div {
