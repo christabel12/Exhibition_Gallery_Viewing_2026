@@ -2,7 +2,7 @@ h1 {
     color: white;
     font-family: 'Red Hat Display', sans-serif;
     font-weight: bold;
-    font-size: 55px;
+    font-size: 45 px;
     text-align: center;
     text-transform: uppercase;
 }
@@ -10,15 +10,16 @@ h1 {
 h3 {
     color: white;
     font-family: 'Red Hat Display', sans-serif;
-    font-size: 25px;
+    font-size: 20px;
     text-align: center;
     line-height: 1.5;
-    margin-bottom: 80px;
+    margin-bottom: 50px;
     margin-top: 30px;
 }
 
 image {
     align-content: center;
+    margin-bottom: 50px;
 }
 
 p {
@@ -30,13 +31,8 @@ p {
     margin-top: 30px;
 }
 
-html {
-    display: table;
-    margin: auto;
-}
-
 body {
-    display: table-cell;
+    display: contents;
     vertical-align: middle;
     align-content: center;
     background-color: black;
@@ -49,5 +45,10 @@ body {
 }
 
 .content {
-    margin: 50px;
+    margin: 40px;
+}
+
+div {
+    align-content: center;
+    margin-top: 50px;
 }
