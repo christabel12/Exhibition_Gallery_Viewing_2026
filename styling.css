@@ -46,6 +46,8 @@ body {
     vertical-align: middle;
     align-content: center;
     background-color: black;
+    margin-left: 40px;
+    margin-right: 40px;
 }
 
 .carousel-item img {
