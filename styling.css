@@ -7,6 +7,16 @@ h1 {
     text-transform: uppercase;
 }
 
+h2 {
+    color: white;
+    font-family: 'Red Hat Display', sans-serif;
+    font-weight: bold;
+    font-size: 50px;
+    text-align: center;
+    text-transform: uppercase;
+    margin-top: 80px;
+}
+
 h3 {
     color: white;
     font-family: 'Red Hat Display', sans-serif;
