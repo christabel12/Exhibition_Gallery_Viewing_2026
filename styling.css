@@ -16,11 +16,6 @@ h3 {
     margin-top: 15px;
 }
 
-image {
-    align-content: center;
-    margin-bottom: 100px;
-}
-
 p {
     color: white;
     font-family: 'Red Hat Display', sans-serif;
@@ -45,6 +40,7 @@ body {
 
 .content {
     margin: 25px;
+    align-content: center;
 }
 
 div {
